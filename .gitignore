@@ -1,4 +1,4 @@
 # Ignore media subdirectory
-media
+media/*
 # Ignore .DS_Store files that OSX seems to create
 .DS_Store
