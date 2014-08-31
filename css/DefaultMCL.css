@@ -1,0 +1,40 @@
+body {font-size: 16px; background-color: #f7f8f9; }
+
+h1 {font-size: 24px; font-weight:bold; }
+h2 {font-size: 20px; font-weight:bold; }
+h3 {font-size: 18px; font-weight:bold; }
+h4 {font-size: 18px; font-style:italic;}
+h5 {font-size: 17px; font-style:italic;}
+h6 {font-size: 16px; font-style:italic;}
+
+ p { 
+/*	width: auto; */
+	max-width: 960px; 
+	background-color:#FBFBFB; 
+}
+
+table {	
+	width: auto; 
+	max-width: 960px; 
+	border-style: solid; 
+	border-width: 1px;
+	border-color: #666666;
+	border-collapse: collapse;
+	margin: 5px;
+	width:960px;
+  -webkit-box-shadow: #aaa99e 4px 3px 4px;
+  -moz-box-shadow: #aaa99e 4px 3px 4px;
+  box-shadow: #aaa99e 4px 3px 4px;
+}
+
+td {font-size: 16px; border: 1px solid #666666; text-align: left; padding: 4px 10px; background-color:#FDFDFD; } /* #FBFBFB */
+th {font-size: 16px; font-weight:normal; font-style:italic; border: 1px solid #666666; padding: 4px; text-align: center; background-color:#FBFBFB; }
+
+/*ul {list-style-type: none;}*/
+li {font-size: 16px; }
+
+/* Used for table of contents li at top of page */
+/*
+TOC {}
+TOC li { font-size: 9pt; }
+*/
