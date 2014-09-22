@@ -1,4 +1,6 @@
 # Ignore media subdirectory
 media/*
+# Ignore Magnific-Popup js library
+js/Magnific-Popup/*
 # Ignore .DS_Store files that OSX seems to create
 .DS_Store
